@@ -1,6 +1,6 @@
 # Independent Restaurants Experiencing a 30%+ Crash in Foot Traffic & Sentiment This Quarter in North Carolina
 
-> Free BeamStation sample export with 112 rows and masked direct-contact fields.
+> Free BeamStation sample export with 137 rows and masked direct-contact fields.
 
 ## Snapshot
 
@@ -9,9 +9,9 @@
 | Dataset ID | `118785` |
 | Location | North Carolina |
 | Category | Food and Drink |
-| Full dataset size | 1,123 records |
-| Free sample size | 112 records (9.97%) |
-| Last export | 2026-04-09T18:15:38.242337+00:00 |
+| Full dataset size | 1,374 records |
+| Free sample size | 137 records (9.97%) |
+| Last export | 2026-04-16T21:27:17.131362+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/independent-restaurants-experiencing-a-30-crash-in-foot-traffic-sentiment-this-qua-sample-118785/releases/download/sample-latest/beamstation_118785_food_and_drink-us-nc_SAMPLE_DIST.csv) |
 
 ## What is in this sample
